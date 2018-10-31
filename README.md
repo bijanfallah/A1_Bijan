@@ -17,3 +17,8 @@ see the file  	Data Science Challenge-r03_answers.pdf
 ```bash
 ./loop_it_on_rand_withoutpca.sh
 ```
+## Best RMSE value : 19.76
+
+<div align="center">
+  <img src="https://github.com/bijanfallah/A1_Bijan/blob/master/Figure_1.png"><br><br>
+</div>
