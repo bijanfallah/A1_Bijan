@@ -4,5 +4,11 @@ A code for regression model on automobile data
 check the file : dependencies.txt to find out the 
 libraries installed on the enviornment. 
 ## How to run? 
+```python
+python models.py [seed]
+```
+best seed found was 31 
 
-python models.py 
+
+
+
