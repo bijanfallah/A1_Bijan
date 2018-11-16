@@ -75,5 +75,4 @@ dependencies:
     - termcolor==1.1.0
     - werkzeug==0.14.1
     - xgboost==0.80
-prefix: /home/bkd/anaconda3/envs/tensorflow
 
