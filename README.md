@@ -3,7 +3,8 @@ A code for regression model on automobile data
 ## Dependencies: 
 - check the file : dependencies.txt to find out the 
 libraries installed on the enviornment.
-- create conda env: ```bash
+- create conda env:
+```python
  conda env create  --name auto1 -f environment.yml
 ```
 ## How to run? 
